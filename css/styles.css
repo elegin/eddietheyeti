@@ -67,7 +67,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: rgb(68, 69, 73);
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -10227,6 +10227,18 @@ body {
   max-width: 20rem;
   font-size: 1rem;
 }
+
+.masthead h3 {
+  font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  /* letter-spacing: 0.8rem; */
+  background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+          background-clip: text;
+}
+
 @media (min-width: 768px) {
   .masthead h1 {
     font-size: 4rem;
@@ -10342,4 +10354,13 @@ body {
 
 .footer {
   padding: 5rem 0;
+}
+
+.yeti {
+  height: 64px;
+  width: 64px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  left: 0px;
 }
