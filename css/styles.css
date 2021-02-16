@@ -10364,3 +10364,9 @@ body {
   top: 0px;
   left: 0px;
 }
+
+.main-sect {
+  position: absolute;
+  top: 64px;
+
+}
