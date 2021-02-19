@@ -1,20 +1,17 @@
-.bd-placeholder-img {
-    font-size: 1.125rem;
-    text-anchor: middle;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    user-select: none;
-  }
-
-  @media (min-width: 768px) {
-    .bd-placeholder-img-lg {
-      font-size: 3.5rem;
-    }
-  }
-
-  @media (min-width: 320px) {
-    audio { 
-      width: 150px;
-      display: block;
-      margin:20px; }
-  }
+.audio-container {
+  display: flex;
+  justify-content: center;
+  align-items: center 
+}
+.mainbg {
+  background: url('../assets/img/bg_eddie_main1.jpg');
+  background-size: cover;
+}
+.headerbg {
+  background: url('../assets/img/bg_eddie_header1.jpg');
+  background-size: cover;
+}
+.title {
+  font-size: 5.5rem;
+  color: #6c757d;
+}
