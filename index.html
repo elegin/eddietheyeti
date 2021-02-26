@@ -14,128 +14,249 @@
     
 
     <!-- Bootstrap core CSS -->
+    
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 
-    <!-- Favicons -->
-<!-- <link rel="apple-touch-icon" href="assets/img/favicons//apple-touch-icon.png" sizes="180x180">
-<link rel="icon" href="assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
-<link rel="icon" href="assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png"> -->
-<link rel="icon" href="assets/img/favicons/favicon.ico"> 
-<link rel="StyleSheet" href="css/site.css" type="text/css" />
-<style>
+        <!-- Favicons -->
+    <!-- <link rel="apple-touch-icon" href="assets/img/favicons//apple-touch-icon.png" sizes="180x180">
+    <link rel="icon" href="assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png"> -->
+    <link rel="icon" href="assets/img/favicons/favicon.ico"> 
+    <link rel="StyleSheet" href="css/site.css" type="text/css" />
+    <style>
 
-</style>
-
-  
+    </style>
+    <header>
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+            <a class="navbar-brand" href="#">Eddie the Yeti</a>
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <!-- <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li> -->
+              <li class="nav-item">
+                <a class="nav-link" href="#section1">Guitar</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#section2">Electronic</a>
+              </li>              
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
 </head>
  <body class=" text-white bg-dark">
 
 
-<main >
+  <main >
 
-  <section class="py-5 text-center headerbg vh-100 ">
-    <!-- <div class="row py-lg-5 "> -->
-      <!-- <div class=" mx-auto "> -->
-        <h1 class="title  bs-gradient">Sounds in the Wild</h1>
-        <p class="text-muted ">by: Eddie the Yeti</p>
+    <section class="py-5 text-center headerbg vh-100 ">
+      <!-- <div class="row py-lg-5 "> -->
+        <!-- <div class=" mx-auto "> -->
+          <h1 class="title  bs-gradient">Sounds in the Wild</h1>
+          <p class="text-muted ">by: Eddie the Yeti</p>
 
+        <!-- </div> -->
       <!-- </div> -->
-    <!-- </div> -->
-  </section>
+    </section>
 
-  <div class="album py-5 mainbg text-center">
-    <div class="container">
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+    <div id="section1" class="album py-5 mainbg text-center">
+      <h1  class="song-title">Guitar</h1>
+      <br>
+      <div class="container">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
 
-        <div class="col">
-            <h3 class="song-title  ">Chill Jam Pocket</h3>
+          <div class="col">
+              <h3 class="song-title  ">Chill Jam Pocket</h3>
+              <div class='audio-container '>
+                <audio controls class="audio-container " >
+                    <source src="assets/mp3/Guitar/ChillJamPocket_ Eddie_Mize.mp3" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio> 
+            </div>
+          </div>
+
+          <div class="col">
+            <h3 class="song-title  ">Frenetic</h3>
             <div class='audio-container '>
-              <audio controls class="audio-container " >
-                  <source src="assets/mp3/ChillJamPocket_ Eddie_Mize.mp3" type="audio/mpeg">
+              <audio controls >
+                  <source src="assets/mp3/Guitar/Frenetic_Eddie_Mize.mp3" type="audio/mpeg">
                   Your browser does not support the audio element.
-              </audio> 
+              </audio>
+            </div>
           </div>
-        </div>
 
-        <div class="col">
-          <h3 class="song-title  ">Frenetic</h3>
-          <div class='audio-container '>
-            <audio controls >
-                <source src="assets/mp3/Frenetic_Eddie_Mize.mp3" type="audio/mpeg">
+          <div class="col">
+            <h3 class="song-title ">HardTack</h3>
+            <div class='audio-container '>
+              <audio controls >
+                  <source src="assets/mp3/Guitar/HardTack_Eddie_Mize.mp3" type="audio/mpeg">
+                  Your browser does not support the audio element.
+              </audio>   
+            </div>
+          </div>
+
+          <div class="col">
+            <h3 class="song-title ">East Tex Road House</h3>
+            <div class='audio-container'>
+              <audio controls  >
+                  <source src="assets/mp3/Guitar/EastTexRoadhouse_Eddie_Mize.mp3" type="audio/mpeg">
                 Your browser does not support the audio element.
-            </audio>
+              </audio>    
+            </div>
           </div>
-        </div>
 
-        <div class="col">
-          <h3 class="song-title ">HardTack</h3>
-          <div class='audio-container '>
-            <audio controls >
-                <source src="assets/mp3/HardTack_Eddie_Mize.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>   
+          <div class="col">
+            <h3 class="song-title ">Mellow Blue</h3>
+            <div class='audio-container'>
+              <audio controls  >
+                  <source src="assets/mp3/Guitar/MellowBlue_Eddie_Mize.mp3" type="audio/mpeg">
+                  Your browser does not support the audio element.
+              </audio>    
+            </div>
           </div>
-        </div>
 
-        <div class="col">
-          <h3 class="song-title ">East Tex Road House</h3>
-          <div class='audio-container'>
-            <audio controls  >
-                <source src="assets/mp3/EastTexRoadhouse_Eddie_Mize.mp3" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio>    
+          <div class="col">
+            <h3 class="song-title ">Extrava Nazz</h3>
+            <div class='audio-container'>
+              <audio controls  >
+                  <source src="assets/mp3/Guitar/ExtravaNazz_Eddie_Mize.mp3" type="audio/mpeg">
+                  Your browser does not support the audio element.
+              </audio>    
+            </div>
           </div>
-        </div>
 
-        <div class="col">
-          <h3 class="song-title ">Mellow Blue</h3>
-          <div class='audio-container'>
-            <audio controls  >
-                <source src="assets/mp3/MellowBlue_Eddie_Mize.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>    
+          <div class="col">
+            <h3 class="song-title ">Odd No 7</h3>
+            <div class='audio-container'>
+              <audio controls  >
+                  <source src="assets/mp3/Guitar/Odd_No_7_Eddie_Mize.mp3" type="audio/mpeg">
+                  Your browser does not support the audio element.
+              </audio>    
+            </div>
           </div>
-        </div>
 
-        <div class="col">
-          <h3 class="song-title ">Extrava Nazz</h3>
-          <div class='audio-container'>
-            <audio controls  >
-                <source src="assets/mp3/ExtravaNazz_Eddie_Mize.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>    
-          </div>
         </div>
-
-        <div class="col">
-          <h3 class="song-title ">Odd No 7</h3>
-          <div class='audio-container'>
-            <audio controls  >
-                <source src="assets/mp3/Odd_No_7_Eddie_Mize.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>    
-          </div>
-        </div>
-
       </div>
     </div>
-  </div>
 
-</main>
+    <div id="section2" class="album py-5 text-center bg-secondary">
+      <h1  class="song-title">Electronic</h1>
+      <br>
+      <div class="container">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
 
-<footer class="text-muted py-5">
-  <div class="container">
-    <p class="float-end mb-1">
-      <a href="#">Back to top</a>
-    </p>
-    <p class="mb-1"><img height="50px" src="assets/img/eddietheyeti.png"/></img> Eddie the Yeti  &copy; </p>
-    
-  </div>
-</footer>
+          <div class="col">
+              <h3 class="song-title  ">3cmTck</h3>
+              <div class='audio-container '>
+                <audio controls class="audio-container " >
+                  
+                    <source src="assets\mp3\Electronic\3cmTck_Eddie_Mize.mp3" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio> 
+            </div>
+          </div>
 
+          <div class="col">
+            <h3 class="song-title  ">Are You Sh-tting Me</h3>
+            <div class='audio-container '>
+              <audio controls >
+                  <source src="assets\mp3\Electronic\AreYouSh-ttingMe_Eddie_Mize.mp3" type="audio/mpeg">
+                  Your browser does not support the audio element.
+              </audio>
+            </div>
+          </div>
 
-<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script> -->
+          <div class="col">
+            <h3 class="song-title ">Contemplate</h3>
+            <div class='audio-container '>
+              <audio controls >
+                  <source src="assets\mp3\Electronic\Contemplate_Eddie_Mize.mp3" type="audio/mpeg">
+                  Your browser does not support the audio element.
+              </audio>   
+            </div>
+          </div>
 
+          <div class="col">
+            <h3 class="song-title ">Driving to WHERE</h3>
+            <div class='audio-container'>
+              <audio controls  >
+                  <source src="assets\mp3\Electronic\Driving_to_WHERE_Eddie_Mize.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+              </audio>    
+            </div>
+          </div>
+
+          <div class="col">
+            <h3 class="song-title ">Feeling it</h3>
+            <div class='audio-container'>
+              <audio controls  >
+                  <source src="assets\mp3\Electronic\Feeling_it_Eddie_Mize.mp3" type="audio/mpeg">
+                  Your browser does not support the audio element.
+              </audio>    
+            </div>
+          </div>
+
+          <div class="col">
+            <h3 class="song-title ">Ominous Sky</h3>
+            <div class='audio-container'>
+              <audio controls  >
+                  <source src="assets\mp3\Electronic\OminousSky_Eddie_Mize.mp3" type="audio/mpeg">
+                  Your browser does not support the audio element.
+              </audio>    
+            </div>
+          </div>
+
+          <div class="col">
+            <h3 class="song-title ">When Your Up</h3>
+            <div class='audio-container'>
+              <audio controls  >
+                  <source src="assets\mp3\Electronic\WhenYourUp_Eddie_Mize.mp3" type="audio/mpeg">
+                  Your browser does not support the audio element.
+              </audio>    
+            </div>
+          </div>
+
+          <div class="col">
+            <h3 class="song-title ">Gamers Delight</h3>
+            <div class='audio-container'>
+              <audio controls  >
+                  <source src="assets\mp3\Electronic\GamersDelight_Eddie_Mize.mp3" type="audio/mpeg">
+                  Your browser does not support the audio element.
+              </audio>    
+            </div>
+          </div>          
+
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="text-muted py-5">
+    <div class="container">
+      <p class="float-end mb-1">
+        <a href="#">Back to top</a>
+      </p>
+      <p class="mb-1"><img height="50px" src="assets/img/eddietheyeti.png"/></img> Eddie the Yeti  &copy; </p>
       
+    </div>
+  </footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
   </body>
 </html>
+
+
+<!-- 3cmTck_ Eddie_Mize.mp3
+AreYouSh-ttingMe_Eddie_Mize.mp3
+Contemplate_Eddie_Mize.mp3
+Driving_to_WHERE_Eddie_Mize.mp3
+Feeling_it_Eddie_Mize.mp3
+OminousSky_Eddie_Mize.mp3
+WhenYourUp_Eddie_Mize.mp3 -->

@@ -2,7 +2,7 @@
   color:rgb(255, 255, 255);
   font-family: Tahoma, Verdana, sans-serif;
   font-weight: bold;
-  text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;
+  text-shadow: 0 0 1px gray, 0 0 1px gray, 0 0 1px gray, 0 0 1px gray;
 }
 .audio-container {
   display: flex;
