@@ -1,0 +1,129 @@
+
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="elegin">
+  
+    <title>Eddie the Yeti</title>
+
+    <link rel="canonical" href="">
+
+    
+
+    <!-- Bootstrap core CSS -->
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+
+        <!-- Favicons -->
+    <!-- <link rel="apple-touch-icon" href="assets/img/favicons//apple-touch-icon.png" sizes="180x180">
+    <link rel="icon" href="assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png"> -->
+    <link rel="icon" href="assets/img/favicons/favicon.ico"> 
+    <link rel="StyleSheet" href="css/site.css" type="text/css" />
+    <script src="https://kit.fontawesome.com/a062562745.js" crossorigin="anonymous"></script>
+    
+    <style>
+
+    </style>
+    <header>
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+            <a class="navbar-brand" href="#">Eddie the Yeti</a>
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <!-- <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li> -->
+              <li class="nav-item">
+                <a class="nav-link" href="#section1">Guitar</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#section2">Electronic</a>
+              </li>              
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+</head>
+ <body class=" text-white bg-dark">
+
+
+  <main >
+
+
+    <div id="section2" class="album py-5 text-center bg-secondary">
+      <h1  class="song-title">Electronic</h1>
+
+      <audio id="myAudio" ontimeupdate="onTimeUpdate()">
+        <!-- <source src="audio.ogg" type="audio/ogg"> -->
+        <source id="source-audio" src="" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    
+      <div class="player-ctn">
+        <div class="infos-ctn">
+          <div class="timer">00:00</div>
+          <div class="title-song"></div>
+          <div class="duration">00:00</div>
+        </div>
+        <div id="myProgress">
+          <div id="myBar"></div>
+        </div>
+        <div class="btn-ctn">
+          <div class="btn-action first-btn" onclick="previous()">
+              <div id="btn-faws-back">
+                <i class='fas fa-step-backward'></i>
+              </div>
+          </div>
+          <div class="btn-action" onclick="toggleAudio()">
+              <div id="btn-faws-play-pause">
+                <i class='fas fa-play' id="icon-play"></i>
+                <i class='fas fa-pause' id="icon-pause" style="display: none"></i>
+              </div>
+          </div>
+          <div class="btn-action" onclick="next()">
+              <div id="btn-faws-next">
+                <i class='fas fa-step-forward'></i>
+              </div>
+          </div>
+          <div class="btn-mute" id="toggleMute" onclick="toggleMute()">
+              <div id="btn-faws-volume">
+                <i id="icon-vol-up" class='fas fa-volume-up'></i>
+                <i id="icon-vol-mute" class='fas fa-volume-mute' style="display: none"></i>
+              </div>
+          </div>
+        </div>
+        <div class="playlist-ctn"></div>
+      </div>
+    </div>
+    
+
+
+
+
+  </main>
+
+  <footer class="text-muted py-5">
+    <div class="container">
+      <p class="float-end mb-1">
+        <a href="#">Back to top</a>
+      </p>
+      <p class="mb-1"><img height="50px" src="assets/img/eddietheyeti.png"/></img> Eddie the Yeti  &copy; </p>
+      
+    </div>
+  </footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+  <script src="js/electronic.js"></script>
+</body>
+</html>
+
+
