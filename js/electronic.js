@@ -35,6 +35,11 @@ var listAudio = [
     duration:"03:10"
   },
   {
+    name:"A Thought 2 Far",
+    file:"assets/mp3/Electronic/A_Thought_2_Far_Eddie_Mize.mp3",
+    duration:"03:19"
+  },
+  {
     name:"Are You Sh-ttingMe",
     file:"assets/mp3/Electronic/AreYouSh-ttingMe_Eddie_Mize.mp3",
     duration:"02:10"
