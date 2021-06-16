@@ -29,10 +29,15 @@ function createTrackItem(index,name,duration){
 }
 
 var listAudio = [
-  {
-    name:"3cm Tck",
+ {
+    name:"3cmTck",
     file:"assets/mp3/Electronic/3cmTck_Eddie_Mize.mp3",
     duration:"03:10"
+  },
+  {
+    name:"A Soft Rethink",
+    file:"assets/mp3/Electronic/A_Soft_Rethink_Eddie_Mize.mp3",
+    duration:"04:20"
   },
   {
     name:"A Thought 2 Far",
@@ -40,9 +45,44 @@ var listAudio = [
     duration:"03:19"
   },
   {
-    name:"Are You Sh-ttingMe",
+    name:"Alone with my Dark Thoughts",
+    file:"assets/mp3/Electronic/Alone_with_my_Dark_Thoughts_Eddie_Mize_PM.mp3",
+    duration:"04:18"
+  },
+  {
+    name:"Are You Sh-tting Me",
     file:"assets/mp3/Electronic/AreYouSh-ttingMe_Eddie_Mize.mp3",
     duration:"02:10"
+  },
+  {
+    name:"Caught_in_the_Groove",
+    file:"assets/mp3/Electronic/Caught_in_the_Groove_Eddie_Mize.mp3",
+    duration:"03:08"
+  },
+  {
+    name:"Center of the Mind",
+    file:"assets/mp3/Electronic/Center_of_the_Mind_Eddie_Mize.mp3",
+    duration:"02:40"
+  },
+  {
+    name:"Chaostic",
+    file:"assets/mp3/Electronic/Chaostic_Eddie_Mize.mp3",
+    duration:"02:31"
+  },
+  {
+    name:"Chase Scene",
+    file:"assets/mp3/Electronic/Chase_Scene_Eddie_Mize.mp3",
+    duration:"03:42"
+  },
+  {
+    name:"Chyll",
+    file:"assets/mp3/Electronic/Chyll_Eddie_Mize.mp3",
+    duration:"03:48"
+  },
+  {
+    name:"Circular Thought",
+    file:"assets/mp3/Electronic/Circular_Thought_Eddie_Mize.mp3",
+    duration:"04:52"
   },
   {
     name:"Club Fuut",
@@ -55,14 +95,39 @@ var listAudio = [
     duration:"03:20"
   },
   {
+    name:"DDRev",
+    file:"assets/mp3/Electronic/DDRev_Eddie_Mize.mp3",
+    duration:"02:59"
+  },
+  {
+    name:"Deep Down",
+    file:"assets/mp3/Electronic/Deep_Down_Eddie_Mize.mp3",
+    duration:"02:33"
+  },
+  {
     name:"Driving to WHERE",
     file:"assets/mp3/Electronic/Driving_to_WHERE_Eddie_Mize.mp3",
     duration:"02:25"
   },
   {
+    name:"Dwell Time",
+    file:"assets/mp3/Electronic/Dwell_Time_Eddie_Mize.mp3",
+    duration:"03:01"
+  },
+  {
     name:"Feeling it",
     file:"assets/mp3/Electronic/Feeling_it_Eddie_Mize.mp3",
-    duration:"04:48"
+    duration:"04:40"
+  },
+  {
+    name:"Focused Fiasco",
+    file:"assets/mp3/Electronic/Focused_Fiasco_Eddie_Mize.mp3",
+    duration:"05:03"
+  },
+  {
+    name:"Funk Off",
+    file:"assets/mp3/Electronic/Funk_Off_Eddie_MizeM.mp3",
+    duration:"04:02"
   },
   {
     name:"Gamers Delight",
@@ -70,9 +135,64 @@ var listAudio = [
     duration:"03:33"
   },
   {
+    name:"Glide",
+    file:"assets/mp3/Electronic/Glide_Eddie_Mize.mp3",
+    duration:"5:50"
+  },
+  {
+    name:"Hermans Revenge",
+    file:"assets/mp3/Electronic/Hermans_Revenge_Eddie_Mize.mp3",
+    duration:"04:08"
+  },
+  {
+    name:"In Recent Memory",
+    file:"assets/mp3/Electronic/In_Recent_Memory_Eddie_Mize.mp3",
+    duration:"04:12"
+  },
+  {
     name:"Invited To Vibe",
     file:"assets/mp3/Electronic/InvitedToVibe_Eddie_Mize.mp3",
     duration:"06:16"
+  },
+  {
+    name:"Island Lyfe",
+    file:"assets/mp3/Electronic/Island_Lyfe_Eddie_Mize.mp3",
+    duration:"03:22"
+  },
+  {
+    name:"Longboat",
+    file:"assets/mp3/Electronic/Longboat_Eddie_Mize.mp3",
+    duration:"03:32"
+  },
+  {
+    name:"Lounge Act",
+    file:"assets/mp3/Electronic/Lounge_Act_Eddie_Mize.mp3",
+    duration:"03:16"
+  },
+  {
+    name:"Minds Eye Blind",
+    file:"assets/mp3/Electronic/Minds_Eye_Blind_Eddie_Mize.mp3",
+    duration:"03:13"
+  },
+  {
+    name:"MyndWerks",
+    file:"assets/mp3/Electronic/MyndWerks_Eddie_Mize.mp3",
+    duration:"04:40"
+  },
+  {
+    name:"Near the Edge",
+    file:"assets/mp3/Electronic/Near_the_Edge_Eddie_Mize.mp3",
+    duration:"02:58"
+  },
+  {
+    name:"New Day Dreamin",
+    file:"assets/mp3/Electronic/New_Day_Dreamin_Eddie_Mize.mp3",
+    duration:"05:40"
+  },
+  {
+    name:"Off Kilter",
+    file:"assets/mp3/Electronic/Off_Kilter_Eddie_Mize.mp3",
+    duration:"02:58"
   },
   {
     name:"Ominous Sky",
@@ -80,15 +200,65 @@ var listAudio = [
     duration:"02:47"
   },
   {
+    name:"Prepare",
+    file:"assets/mp3/Electronic/Prepare_Eddie_Mize.mp3",
+    duration:"05:22"
+  },
+  {
+    name:"Reexaminator",
+    file:"assets/mp3/Electronic/Reexaminator_Eddie_Mize.mp3",
+    duration:"04:18"
+  },
+  {
+    name:"Slow Burn Sequence",
+    file:"assets/mp3/Electronic/Slow_Burn_Sequence_Eddie_Mize.mp3",
+    duration:"05:00"
+  },
+  {
+    name:"Slow Roll",
+    file:"assets/mp3/Electronic/Slow_Roll_Eddie_Mize.mp3",
+    duration:"03:57"
+  },
+  {
+    name:"Stranger Than Friction",
+    file:"assets/mp3/Electronic/Stranger_Than_Friction_Eddie_Mize.mp3",
+    duration:"02:58"
+  },
+  {
+    name:"Tactical Melody",
+    file:"assets/mp3/Electronic/Tactical_Melody_Eddie_Mize.mp3",
+    duration:"02:40"
+  },
+  {
+    name:"The Thrill of Flight",
+    file:"assets/mp3/Electronic/The_Thrill_of_Flight_Eddie_Mize.mp3",
+    duration:"04:40"
+  },
+  {
+    name:"Thought Police",
+    file:"assets/mp3/Electronic/Thought_Police_Eddie_Mize.mp3",
+    duration:"02:52"
+  },
+  {
+    name:"Way Out There",
+    file:"assets/mp3/Electronic/Way_Out_There_Eddie_Mize.mp3",
+    duration:"03:23"
+  },
+  {
+    name:"Weird and 3rd",
+    file:"assets/mp3/Electronic/Weird_and_3rd_Eddie_Mize.mp3",
+    duration:"04:52"
+  },
+  {
     name:"When Your Up",
     file:"assets/mp3/Electronic/WhenYourUp_Eddie_Mize.mp3",
     duration:"02:58"
   },
   {
-    name:"Lounge Act",
-    file:"assets/mp3/Electronic/Lounge_Act_Eddie_Mize.mp3",
-    duration:"03:16"
-  }  
+    name:"Wobble Thot",
+    file:"assets/mp3/Electronic/WobbleThot_Eddie_Mize.mp3",
+    duration:"04:05"
+  } 
 ]
 
 for (var i = 0; i < listAudio.length; i++) {
