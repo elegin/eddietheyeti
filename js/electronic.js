@@ -240,6 +240,11 @@ var listAudio = [
     duration:"02:52"
   },
   {
+    name:"Visual Noise",
+    file:"assets/mp3/Electronic/Visual_Noise_Eddie_Mize.mp3",
+    duration:"04:33"
+  },
+  {
     name:"Way Out There",
     file:"assets/mp3/Electronic/Way_Out_There_Eddie_Mize.mp3",
     duration:"03:23"
