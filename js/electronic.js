@@ -235,6 +235,11 @@ var listAudio = [
     duration:"04:40"
   },
   {
+    name:"The Voices in my Head",
+    file:"assets/mp3/Electronic/The_Voices_in_my_Head_Eddie_Mize.mp3",
+    duration:"04:40"
+  },
+  {
     name:"Thought Police",
     file:"assets/mp3/Electronic/Thought_Police_Eddie_Mize.mp3",
     duration:"02:52"
