@@ -175,6 +175,11 @@ var listAudio = [
     duration:"03:13"
   },
   {
+    name:"Mourn in Anger",
+    file:"assets/mp3/Electronic/Mourn_in_Anger_Eddie_Mize.mp3",
+    duration:"05:09"
+  },
+  {
     name:"MyndWerks",
     file:"assets/mp3/Electronic/MyndWerks_Eddie_Mize.mp3",
     duration:"04:40"
@@ -237,7 +242,7 @@ var listAudio = [
   {
     name:"The Voices in my Head",
     file:"assets/mp3/Electronic/The_Voices_in_my_Head_Eddie_Mize.mp3",
-    duration:"04:40"
+    duration:"03:10"
   },
   {
     name:"Thought Police",
