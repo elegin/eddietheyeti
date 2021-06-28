@@ -125,6 +125,12 @@ var listAudio = [
     duration:"05:03"
   },
   {
+    name:"Fond Memories",
+    file:"assets/mp3/Electronic/Fond_Memories_Eddie_Mize.mp3",
+    duration:"04:55"
+  },
+  
+  {
     name:"Funk Off",
     file:"assets/mp3/Electronic/Funk_Off_Eddie_MizeM.mp3",
     duration:"04:02"
