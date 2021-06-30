@@ -231,6 +231,11 @@ var listAudio = [
     duration:"03:57"
   },
   {
+    name:"Sticks and Soft Stones",
+    file:"assets/mp3/Electronic/Sticks_and_Soft_Stones_Eddie_Mize.mp3",
+    duration:"04:10"
+  },
+  {
     name:"Stranger Than Friction",
     file:"assets/mp3/Electronic/Stranger_Than_Friction_Eddie_Mize.mp3",
     duration:"02:58"
