@@ -246,6 +246,11 @@ var listAudio = [
     duration:"02:40"
   },
   {
+    name:"The Elephant in the Roomba",
+    file:"assets/mp3/Electronic/The_Elephant_in_the_Roomba_Eddie_Mize.mp3",
+    duration:"03:28"
+  },   
+  {
     name:"The Thrill of Flight",
     file:"assets/mp3/Electronic/The_Thrill_of_Flight_Eddie_Mize.mp3",
     duration:"04:40"
