@@ -221,6 +221,11 @@ var listAudio = [
     duration:"04:18"
   },
   {
+    name:"REM State",
+    file:"assets/mp3/Electronic/REM_State_Eddie_Mize.mp3",
+    duration:"04:34"
+  },
+  {
     name:"Slow Burn Sequence",
     file:"assets/mp3/Electronic/Slow_Burn_Sequence_Eddie_Mize.mp3",
     duration:"05:00"
