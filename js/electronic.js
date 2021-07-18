@@ -95,6 +95,11 @@ var listAudio = [
     duration:"03:20"
   },
   {
+    name:"Cool Night Drive",
+    file:"assets/mp3/Electronic/Cool_Night_Drive_Eddie_Mize.mp3",
+    duration:"03:27"
+  },
+  {
     name:"DDRev",
     file:"assets/mp3/Electronic/DDRev_Eddie_Mize.mp3",
     duration:"02:59"
