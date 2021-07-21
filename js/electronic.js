@@ -55,7 +55,7 @@ var listAudio = [
     duration:"02:10"
   },
   {
-    name:"Caught_in_the_Groove",
+    name:"Caught in the Groove",
     file:"assets/mp3/Electronic/Caught_in_the_Groove_Eddie_Mize.mp3",
     duration:"03:08"
   },
@@ -274,6 +274,11 @@ var listAudio = [
     name:"Thought Police",
     file:"assets/mp3/Electronic/Thought_Police_Eddie_Mize.mp3",
     duration:"02:52"
+  },
+  {
+    name:"Too Much Caffeine",
+    file:"assets/mp3/Electronic/Too_Much_Caffeine_Eddie_Mize.mp3",
+    duration:"03:42"
   },
   {
     name:"Visual Noise",
