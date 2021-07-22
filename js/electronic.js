@@ -226,6 +226,11 @@ var listAudio = [
     duration:"05:22"
   },
   {
+    name:"Recurring_Dream_PM",
+    file:"assets/mp3/Electronic/Recurring_Dream_PM_Eddie_Mize.mp3",
+    duration:"03:48"
+  },
+  {
     name:"Reexaminator",
     file:"assets/mp3/Electronic/Reexaminator_Eddie_Mize.mp3",
     duration:"04:18"
