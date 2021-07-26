@@ -90,6 +90,11 @@ var listAudio = [
     duration:"04:30"
   },
   {
+    name:"Cogs of the Wheel",
+    file:"assets/mp3/Electronic/Cogs_of_the_Wheel_Eddie_Mize.mp3",
+    duration:"04:08"
+  },
+  {
     name:"Contemplate",
     file:"assets/mp3/Electronic/Contemplate_Eddie_Mize.mp3",
     duration:"03:20"
