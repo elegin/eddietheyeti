@@ -35,6 +35,11 @@ var listAudio = [
     duration:"03:10"
   },
   {
+    name:"A Dark and Quiet Place",
+    file:"assets/mp3/Electronic/A_Dark_and_Quiet_Place_Eddie_Mize.mp3",
+    duration:"04:10"
+  },
+  {
     name:"A Soft Rethink",
     file:"assets/mp3/Electronic/A_Soft_Rethink_Eddie_Mize.mp3",
     duration:"04:20"
