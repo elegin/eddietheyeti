@@ -246,6 +246,11 @@ var listAudio = [
     duration:"04:34"
   },
   {
+    name:"Route to Host",
+    file:"assets/mp3/Electronic/Route_to_Host_Eddie_Mize.mp3",
+    duration:"04:34"
+  },
+  {
     name:"Slow Burn Sequence",
     file:"assets/mp3/Electronic/Slow_Burn_Sequence_Eddie_Mize.mp3",
     duration:"05:00"
