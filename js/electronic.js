@@ -40,6 +40,11 @@ var listAudio = [
     duration:"04:10"
   },
   {
+    name:"A Freak Can",
+    file:"assets/mp3/Electronic/A_Freak_Can_Eddie_Mize.mp3",
+    duration:"02:27"
+  },  
+  {
     name:"A Soft Rethink",
     file:"assets/mp3/Electronic/A_Soft_Rethink_Eddie_Mize.mp3",
     duration:"04:20"
@@ -180,6 +185,11 @@ var listAudio = [
     file:"assets/mp3/Electronic/Island_Lyfe_Eddie_Mize.mp3",
     duration:"03:22"
   },
+  {
+    name:"Kaos Prynciple",
+    file:"assets/mp3/Electronic/Kaos_Prynciple_Eddie_Mize.mp3",
+    duration:"02:56"
+  },  
   {
     name:"Longboat",
     file:"assets/mp3/Electronic/Longboat_Eddie_Mize.mp3",
