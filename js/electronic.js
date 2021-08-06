@@ -246,6 +246,11 @@ var listAudio = [
     duration:"05:22"
   },
   {
+    name:"R3l4X",
+    file:"assets/mp3/Electronic/R3l4X_Eddie_Mize.mp3",
+    duration:"06:04"
+  },  
+  {
     name:"Recurring_Dream_PM",
     file:"assets/mp3/Electronic/Recurring_Dream_PM_Eddie_Mize.mp3",
     duration:"03:48"
