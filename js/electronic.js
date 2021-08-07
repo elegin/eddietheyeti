@@ -271,6 +271,11 @@ var listAudio = [
     duration:"04:34"
   },
   {
+    name:"Run and Hide",
+    file:"assets/mp3/Electronic/Run_and_Hide_Eddie_Mize.mp3",
+    duration:"05:10"
+  },
+  {
     name:"Slow Burn Sequence",
     file:"assets/mp3/Electronic/Slow_Burn_Sequence_Eddie_Mize.mp3",
     duration:"05:00"
