@@ -65,6 +65,11 @@ var listAudio = [
     duration:"02:10"
   },
   {
+    name:"Caribbean_Paradise",
+    file:"assets/mp3/Electronic/Caribbean_Paradise_Eddie_Mize.mp3",
+    duration:"04:28"
+  },
+  {
     name:"Caught in the Groove",
     file:"assets/mp3/Electronic/Caught_in_the_Groove_Eddie_Mize.mp3",
     duration:"03:08"
