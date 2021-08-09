@@ -65,6 +65,11 @@ var listAudio = [
     duration:"02:10"
   },
   {
+    name:"Brain Race Stat",
+    file:"assets/mp3/Electronic/Brain_Race_Stat_Eddie_Mize.mp3",
+    duration:"02:52"
+  },
+  {
     name:"Caribbean_Paradise",
     file:"assets/mp3/Electronic/Caribbean_Paradise_Eddie_Mize.mp3",
     duration:"04:28"
