@@ -211,6 +211,11 @@ var listAudio = [
     duration:"03:16"
   },
   {
+    name:"Luner Tick",
+    file:"assets/mp3/Electronic/Luner_Tick_Eddie_Mize.mp3",
+    duration:"03:16"
+  },
+  {
     name:"Manic Response",
     file:"assets/mp3/Electronic/Manic_Response_Eddie_Mize.mp3",
     duration:"03:08"
