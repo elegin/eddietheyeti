@@ -221,6 +221,11 @@ var listAudio = [
     duration:"03:08"
   },
   {
+    name:"Mental Scar Tissue",
+    file:"assets/mp3/Electronic/Mental_Scar_Tissue_Eddie_Mize.mp3",
+    duration:"03:08"
+  },
+  {
     name:"Minds Eye Blind",
     file:"assets/mp3/Electronic/Minds_Eye_Blind_Eddie_Mize.mp3",
     duration:"03:13"
