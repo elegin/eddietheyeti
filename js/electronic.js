@@ -331,6 +331,11 @@ var listAudio = [
     duration:"03:10"
   },
   {
+    name:"They Are Coming",
+    file:"assets/mp3/Electronic/They_Are_Coming_Eddie_Mize.mp3",
+    duration:"04:02"
+  },
+  {
     name:"Thought Police",
     file:"assets/mp3/Electronic/Thought_Police_Eddie_Mize.mp3",
     duration:"02:52"
