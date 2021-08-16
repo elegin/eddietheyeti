@@ -301,6 +301,11 @@ var listAudio = [
     duration:"05:10"
   },
   {
+    name:"Scream to Me",
+    file:"assets/mp3/Electronic/Scream_to_Me.mp3",
+    duration:"05:10"
+  },
+  {
     name:"Slow Burn Sequence",
     file:"assets/mp3/Electronic/Slow_Burn_Sequence_Eddie_Mize.mp3",
     duration:"05:00"
