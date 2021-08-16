@@ -221,6 +221,11 @@ var listAudio = [
     duration:"03:08"
   },
   {
+    name:"Mental Coastline",
+    file:"assets/mp3/Electronic/Mental_Coastline_Eddie_Mize.mp3",
+    duration:"03:08"
+  },
+  {
     name:"Mental Scar Tissue",
     file:"assets/mp3/Electronic/Mental_Scar_Tissue_Eddie_Mize.mp3",
     duration:"03:08"
