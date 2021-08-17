@@ -176,6 +176,11 @@ var listAudio = [
     duration:"5:50"
   },
   {
+    name:"Gumshoe",
+    file:"assets/mp3/Electronic/Gumshoe_Eddie_Mize.m4a",
+    duration:"5:50"
+  },
+  {
     name:"Hermans Revenge",
     file:"assets/mp3/Electronic/Hermans_Revenge_Eddie_Mize.mp3",
     duration:"04:08"
