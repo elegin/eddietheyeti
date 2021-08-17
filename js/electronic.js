@@ -178,7 +178,7 @@ var listAudio = [
   {
     name:"Gumshoe",
     file:"assets/mp3/Electronic/Gumshoe_Eddie_Mize.m4a",
-    duration:"5:50"
+    duration:"1:09"
   },
   {
     name:"Hermans Revenge",
