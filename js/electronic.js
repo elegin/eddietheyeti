@@ -311,6 +311,11 @@ var listAudio = [
     duration:"05:10"
   },
   {
+    name:"Running Away",
+    file:"assets/mp3/Electronic/Running_Away_Eddie_Mize.mp3",
+    duration:"05:10"
+  },
+  {
     name:"Scream to Me",
     file:"assets/mp3/Electronic/Scream_to_Me.mp3",
     duration:"05:10"
