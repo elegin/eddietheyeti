@@ -371,6 +371,11 @@ var listAudio = [
     duration:"02:52"
   },
   {
+    name:"Tides of GWAR",
+    file:"assets/mp3/Electronic/Tides_of_GWAR_Eddie_Mize.mp3",
+    duration:"03:13"
+  },
+  {
     name:"Too Much Caffeine",
     file:"assets/mp3/Electronic/Too_Much_Caffeine_Eddie_Mize.mp3",
     duration:"03:42"
