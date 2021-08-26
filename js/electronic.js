@@ -186,6 +186,11 @@ var listAudio = [
     duration:"04:08"
   },
   {
+    name:"Impending DOOM",
+    file:"assets/mp3/Electronic/Impending_DOOM_Eddie_Mize.mp3",
+    duration:"04:08"
+  },
+  {
     name:"In Recent Memory",
     file:"assets/mp3/Electronic/In_Recent_Memory_Eddie_Mize.mp3",
     duration:"04:12"
