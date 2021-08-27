@@ -336,6 +336,11 @@ var listAudio = [
     duration:"03:57"
   },
   {
+    name:"SoundTrek Harmonic",
+    file:"assets/mp3/Electronic/SoundTrek_Harmonic_Eddie_Mize.mp3",
+    duration:"03:33"
+  },
+  {
     name:"Sticks and Soft Stones",
     file:"assets/mp3/Electronic/Sticks_and_Soft_Stones_Eddie_Mize.mp3",
     duration:"04:10"
