@@ -110,6 +110,11 @@ var listAudio = [
     duration:"04:30"
   },
   {
+    name:"Cognative Process Loop",
+    file:"assets/mp3/Electronic/Cognative_Process_Loop_Eddie_Mize.mp3",
+    duration:"04:20"
+  },
+  {
     name:"Cogs of the Wheel",
     file:"assets/mp3/Electronic/Cogs_of_the_Wheel_Eddie_Mize.mp3",
     duration:"04:08"
