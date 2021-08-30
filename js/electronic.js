@@ -115,6 +115,11 @@ var listAudio = [
     duration:"04:20"
   },
   {
+    name:"Cybernetic Groovin",
+    file:"assets/mp3/Electronic/Cybernetic_Groovin_Eddie_Mize.mp3",
+    duration:"04:37"
+  },
+  {
     name:"Cogs of the Wheel",
     file:"assets/mp3/Electronic/Cogs_of_the_Wheel_Eddie_Mize.mp3",
     duration:"04:08"
@@ -160,11 +165,15 @@ var listAudio = [
     duration:"05:03"
   },
   {
-    name:"Fond Memories",
-    file:"assets/mp3/Electronic/Fond_Memories_Eddie_Mize.mp3",
+    name:"Forgotten Dream State",
+    file:"assets/mp3/Electronic/Forgotten_Dream_State_Eddie_Mize.mp3",
     duration:"04:55"
   },
-  
+  {
+    name:"",
+    file:"assets/mp3/Electronic/Funk_Off_Eddie_MizeM.mp3",
+    duration:"03:12"
+  },  
   {
     name:"Funk Off",
     file:"assets/mp3/Electronic/Funk_Off_Eddie_MizeM.mp3",
