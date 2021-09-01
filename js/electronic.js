@@ -428,7 +428,7 @@ var listAudio = [
     name:"Wobble Thot",
     file:"assets/mp3/Electronic/WobbleThot_Eddie_Mize.mp3",
     duration:"04:05"
-  } 
+  }, 
   {
     name:"Wormhole",
     file:"assets/mp3/Electronic/Wormhole_Eddie_Mize.mp3",
