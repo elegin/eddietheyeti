@@ -360,6 +360,11 @@ var listAudio = [
     duration:"04:10"
   },
   {
+    name:"Still Not Weird Enough",
+    file:"assets/mp3/Electronic/Still_Not_Weird_Enough_Eddie_Mize.mp3",
+    duration:"04:10"
+  },
+  {
     name:"Stranger Than Friction",
     file:"assets/mp3/Electronic/Stranger_Than_Friction_Eddie_Mize.mp3",
     duration:"02:58"
