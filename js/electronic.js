@@ -55,6 +55,11 @@ var listAudio = [
     duration:"03:19"
   },
   {
+    name:"Across the Cosmos",
+    file:"assets/mp3/Electronic/Across_the_Cosmos_Eddie_Mize.mp3",
+    duration:"02:34"
+  },  
+  {
     name:"Alone with my Dark Thoughts",
     file:"assets/mp3/Electronic/Alone_with_my_Dark_Thoughts_Eddie_Mize_PM.mp3",
     duration:"04:18"
@@ -62,7 +67,7 @@ var listAudio = [
   {
     name:"Angst",
     file:"assets/mp3/Electronic/Angst_Eddie_Mize.mp3",
-    duration:"04:18"
+    duration:"03:32"
   },
   {
     name:"Are You Sh-tting Me",
@@ -149,6 +154,11 @@ var listAudio = [
     file:"assets/mp3/Electronic/Deep_Down_Eddie_Mize.mp3",
     duration:"02:33"
   },
+  {
+    name:"Driving These Dark Streets",
+    file:"assets/mp3/Electronic/Driving_These_Dark_Streets_Eddie_Mize.mp3",
+    duration:"02:56"
+  },  
   {
     name:"Driving to WHERE",
     file:"assets/mp3/Electronic/Driving_to_WHERE_Eddie_Mize.mp3",
