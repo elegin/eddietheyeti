@@ -60,6 +60,11 @@ var listAudio = [
     duration:"04:18"
   },
   {
+    name:"Angst",
+    file:"assets/mp3/Electronic/Angst_Eddie_Mize.mp3",
+    duration:"04:18"
+  },
+  {
     name:"Are You Sh-tting Me",
     file:"assets/mp3/Electronic/AreYouSh-ttingMe_Eddie_Mize.mp3",
     duration:"02:10"
