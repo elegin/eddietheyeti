@@ -440,6 +440,11 @@ var listAudio = [
     duration:"04:52"
   },
   {
+    name:"When All Is Said",
+    file:"assets/mp3/Electronic/When_All_Is_Said_Eddie_Mize.mp3",
+    duration:"03:57"
+  },
+  {
     name:"When Your Up",
     file:"assets/mp3/Electronic/WhenYourUp_Eddie_Mize.mp3",
     duration:"02:58"
