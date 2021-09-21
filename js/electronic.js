@@ -170,6 +170,11 @@ var listAudio = [
     duration:"03:01"
   },
   {
+    name:"Fear of Remembering",
+    file:"assets/mp3/ElectronicFear_of_Remembering_Eddie_Mize.mp3",
+    duration:"03:27"
+  },
+  {
     name:"Feeling it",
     file:"assets/mp3/Electronic/Feeling_it_Eddie_Mize.mp3",
     duration:"04:40"
@@ -185,7 +190,7 @@ var listAudio = [
     duration:"04:55"
   },
   {
-    name:"",
+    name:"Funk Off",
     file:"assets/mp3/Electronic/Funk_Off_Eddie_MizeM.mp3",
     duration:"03:12"
   },  
