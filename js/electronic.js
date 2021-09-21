@@ -370,6 +370,11 @@ var listAudio = [
     duration:"03:57"
   },
   {
+    name:"Solitude",
+    file:"assets/mp3/Electronic/Solitude_Eddie_Mize.mp3",
+    duration:"04:15"
+  },
+  {
     name:"SoundTrek Harmonic",
     file:"assets/mp3/Electronic/SoundTrek_Harmonic_Eddie_Mize.mp3",
     duration:"03:33"
