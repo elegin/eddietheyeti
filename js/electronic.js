@@ -280,6 +280,11 @@ var listAudio = [
     duration:"03:13"
   },
   {
+    name:"Mission from God",
+    file:"assets/mp3/Electronic/Mission_from_God_Eddie_Mize.mp3",
+    duration:"05:27"
+  },  
+  {
     name:"Mourn in Anger",
     file:"assets/mp3/Electronic/Mourn_in_Anger_Eddie_Mize.mp3",
     duration:"05:09"
