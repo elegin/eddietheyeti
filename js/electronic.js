@@ -125,11 +125,6 @@ var listAudio = [
     duration:"04:20"
   },
   {
-    name:"Cybernetic Groovin",
-    file:"assets/mp3/Electronic/Cybernetic_Groovin_Eddie_Mize.mp3",
-    duration:"04:37"
-  },
-  {
     name:"Cogs of the Wheel",
     file:"assets/mp3/Electronic/Cogs_of_the_Wheel_Eddie_Mize.mp3",
     duration:"04:08"
@@ -143,6 +138,16 @@ var listAudio = [
     name:"Cool Night Drive",
     file:"assets/mp3/Electronic/Cool_Night_Drive_Eddie_Mize.mp3",
     duration:"03:27"
+  },
+  {
+    name:"Cybernetic Groovin",
+    file:"assets/mp3/Electronic/Cybernetic_Groovin_Eddie_Mize.mp3",
+    duration:"04:37"
+  },
+  {
+    name:"Darkly Through",
+    file:"assets/mp3/Electronic/Darkly_Through_Eddie_Mize.mp3",
+    duration:"04:33"
   },
   {
     name:"DDRev",
