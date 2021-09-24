@@ -300,6 +300,11 @@ var listAudio = [
     duration:"05:09"
   },
   {
+    name:"Muerte",
+    file:"assets/mp3/Electronic/Muerte_Eddie_Mize.mp3",
+    duration:"04:21"
+  },
+  {
     name:"MyndWerks",
     file:"assets/mp3/Electronic/MyndWerks_Eddie_Mize.mp3",
     duration:"04:40"
