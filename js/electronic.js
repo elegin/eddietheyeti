@@ -60,6 +60,11 @@ var listAudio = [
     duration:"02:34"
   },  
   {
+    name:"All Hallows March",
+    file:"assets/mp3/Electronic/All_Hallows_March_Eddie_Mize.mp3",
+    duration:"04:09"
+  }, 
+  {
     name:"Alone with my Dark Thoughts",
     file:"assets/mp3/Electronic/Alone_with_my_Dark_Thoughts_Eddie_Mize_PM.mp3",
     duration:"04:18"
