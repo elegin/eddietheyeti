@@ -130,6 +130,11 @@ var listAudio = [
     duration:"04:20"
   },
   {
+    name:"Cognitivity",
+    file:"assets/mp3/Electronic/Cognitivity_Eddie_Mize.mp3",
+    duration:"04:20"
+  },
+  {
     name:"Cogs of the Wheel",
     file:"assets/mp3/Electronic/Cogs_of_the_Wheel_Eddie_Mize.mp3",
     duration:"04:08"
