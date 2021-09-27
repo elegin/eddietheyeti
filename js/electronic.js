@@ -132,7 +132,7 @@ var listAudio = [
   {
     name:"Cognitivity",
     file:"assets/mp3/Electronic/Cognitivity_Eddie_Mize.mp3",
-    duration:"04:20"
+    duration:"03:42"
   },
   {
     name:"Cogs of the Wheel",
@@ -153,6 +153,11 @@ var listAudio = [
     name:"Cybernetic Groovin",
     file:"assets/mp3/Electronic/Cybernetic_Groovin_Eddie_Mize.mp3",
     duration:"04:37"
+  },
+  {
+    name:"Dark Karnival",
+    file:"assets/mp3/Electronic/Dark_Karnival_Eddie_Mize.mp3",
+    duration:"04:55"
   },
   {
     name:"Darkly Through",
