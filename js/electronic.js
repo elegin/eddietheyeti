@@ -250,6 +250,11 @@ var listAudio = [
     duration:"04:12"
   },
   {
+    name:"Into Madness",
+    file:"assets/mp3/Electronic/Into_Madness_Eddie_Mize.mp3",
+    duration:"03:37"
+  },  
+  {
     name:"Invited To Vibe",
     file:"assets/mp3/Electronic/InvitedToVibe_Eddie_Mize.mp3",
     duration:"06:16"
