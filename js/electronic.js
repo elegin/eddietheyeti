@@ -50,6 +50,11 @@ var listAudio = [
     duration:"04:20"
   },
   {
+    name:"A Stroll Through the Graveyard",
+    file:"assets/mp3/Electronic/A_Stroll_Through_the_Graveyard_Eddie_Mize.mp3",
+    duration:"04:20"
+  },  
+  {
     name:"A Thought 2 Far",
     file:"assets/mp3/Electronic/A_Thought_2_Far_Eddie_Mize.mp3",
     duration:"03:19"
