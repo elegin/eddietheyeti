@@ -52,7 +52,7 @@ var listAudio = [
   {
     name:"A Stroll Through the Graveyard",
     file:"assets/mp3/Electronic/A_Stroll_Through_the_Graveyard_Eddie_Mize.mp3",
-    duration:"04:20"
+    duration:"03:40"
   },  
   {
     name:"A Thought 2 Far",
@@ -163,6 +163,11 @@ var listAudio = [
     name:"Cybernetic Groovin",
     file:"assets/mp3/Electronic/Cybernetic_Groovin_Eddie_Mize.mp3",
     duration:"04:37"
+  },
+  {
+    name:"Dark Journey",
+    file:"assets/mp3/Electronic/Dark_Journey_Eddie_Mize.mp3",
+    duration:"03:41"
   },
   {
     name:"Dark Karnival",
