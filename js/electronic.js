@@ -323,6 +323,11 @@ var listAudio = [
     name:"Mission from God",
     file:"assets/mp3/Electronic/Mission_from_God_Eddie_Mize.mp3",
     duration:"05:27"
+  },
+  {
+    name:"Morbid Regime",
+    file:"assets/mp3/Electronic/Morbid_Regime_Eddie_Mize.mp3",
+    duration:"03:45"
   },  
   {
     name:"Mourn in Anger",
