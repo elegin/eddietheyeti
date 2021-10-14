@@ -255,6 +255,11 @@ var listAudio = [
     duration:"04:08"
   },
   {
+    name:"Home Groan",
+    file:"assets/mp3/Electronic/Home_Groan_Eddie_Mize.mp3",
+    duration:"04:21"
+  },
+  {
     name:"Impending DOOM",
     file:"assets/mp3/Electronic/Impending_DOOM_Eddie_Mize.mp3",
     duration:"04:08"
