@@ -415,6 +415,11 @@ var listAudio = [
     duration:"05:10"
   },
   {
+    name:"Sanctum",
+    file:"assets/mp3/Electronic/Sanctum_Eddie_Mize.mp3",
+    duration:"04:17"
+  },  
+  {
     name:"Scream to Me",
     file:"assets/mp3/Electronic/Scream_to_Me.mp3",
     duration:"05:10"
