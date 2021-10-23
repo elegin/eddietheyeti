@@ -250,6 +250,11 @@ var listAudio = [
     duration:"1:09"
   },
   {
+    name:"Haunted Hill",
+    file:"assets/mp3/Electronic/Haunted_Hill_Eddie_Mize.mp3",
+    duration:"3:54"
+  },
+  {
     name:"Hermans Revenge",
     file:"assets/mp3/Electronic/Hermans_Revenge_Eddie_Mize.mp3",
     duration:"04:08"
