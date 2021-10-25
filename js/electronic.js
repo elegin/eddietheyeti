@@ -190,6 +190,11 @@ var listAudio = [
     duration:"02:33"
   },
   {
+    name:"Dont Go Alone",
+    file:"assets/mp3/Electronic/Dont_Go_Alone_Eddie_Mize.mp3",
+    duration:"04:18"
+  },
+  {
     name:"Driving These Dark Streets",
     file:"assets/mp3/Electronic/Driving_These_Dark_Streets_Eddie_Mize.mp3",
     duration:"02:56"
@@ -414,6 +419,11 @@ var listAudio = [
     file:"assets/mp3/Electronic/Run_and_Hide_Eddie_Mize.mp3",
     duration:"05:10"
   },
+  {
+    name:"Run for Help",
+    file:"assets/mp3/Electronic/Run_for_Help_Eddie_Mize.mp3",
+    duration:"03:56"
+  },  
   {
     name:"Running Away",
     file:"assets/mp3/Electronic/Running_Away_Eddie_Mize.mp3",
