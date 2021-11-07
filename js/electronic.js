@@ -245,6 +245,11 @@ var listAudio = [
     duration:"03:33"
   },
   {
+    name:"Getting Through It",
+    file:"assets/mp3/Electronic/Getting_Through_It_Eddie_Mize.mp3",
+    duration:"04:00"
+  },  
+  {
     name:"Glide",
     file:"assets/mp3/Electronic/Glide_Eddie_Mize.mp3",
     duration:"5:50"
@@ -384,6 +389,16 @@ var listAudio = [
     file:"assets/mp3/Electronic/Outer_Edge_Eddie_Mize.mp3",
     duration:"04:18"
   },
+  {
+    name:"Over Strange Lands",
+    file:"assets/mp3/Electronic/Over_Strange_Lands_Eddie_Mize.mp3",
+    duration:"04:43"
+  },
+  {
+    name:"P. Nutbutter and JamZ",
+    file:"assets/mp3/Electronic/P_Nutbutter_and_JamZ_Eddie_Mize.mp3",
+    duration:"04:14"
+  },  
   {
     name:"Prepare",
     file:"assets/mp3/Electronic/Prepare_Eddie_Mize.mp3",
