@@ -535,6 +535,11 @@ var listAudio = [
     duration:"03:42"
   },
   {
+    name:"Up is the Destination",
+    file:"assets/mp3/Electronic/Up_is_the_Destination_Eddie_Mize.mp3",
+    duration:"03:48"
+  },
+  {
     name:"Visual Noise",
     file:"assets/mp3/Electronic/Visual_Noise_Eddie_Mize.mp3",
     duration:"04:33"
