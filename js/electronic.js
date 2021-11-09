@@ -445,6 +445,11 @@ var listAudio = [
     duration:"05:10"
   },
   {
+    name:"Rush Through The Dark",
+    file:"assets/mp3/Electronic/Rush_Through_The_Dark_Eddie_Mize.mp3",
+    duration:"04:39"
+  },  
+  {
     name:"Sanctum",
     file:"assets/mp3/Electronic/Sanctum_Eddie_Mize.mp3",
     duration:"04:17"
