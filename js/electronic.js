@@ -104,7 +104,17 @@ var listAudio = [
     file:"assets/mp3/Electronic/Casual_Rumination_Eddie_Mize.mp3",
     duration:"04:14"
   },
-    {
+  {
+    name:"Caught in the Groove",
+    file:"assets/mp3/Electronic/Caught_in_the_Groove_Eddie_Mize.mp3",
+    duration:"03:08"
+  },
+  {
+    name:"Cautious Rapidity",
+    file:"assets/mp3/Electronic/Cautious_Rapidity_Eddie_MIze.mp3",
+    duration:"04:14"
+  },  
+  {
     name:"Center of the Mind",
     file:"assets/mp3/Electronic/Center_of_the_Mind_Eddie_Mize.mp3",
     duration:"02:40"
