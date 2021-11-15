@@ -520,6 +520,11 @@ var listAudio = [
     duration:"03:28"
   },   
   {
+    name:"The Speed of Thot",
+    file:"assets/mp3/Electronic/The_Speed_of_Thot_Eddie_Mize.mp3",
+    duration:"03:41"
+  },   
+  {
     name:"The Thrill of Flight",
     file:"assets/mp3/Electronic/The_Thrill_of_Flight_Eddie_Mize.mp3",
     duration:"04:40"
