@@ -325,6 +325,11 @@ var listAudio = [
     duration:"03:16"
   },
   {
+    name:"Lucid Dreams",
+    file:"assets/mp3/Electronic/Lucid_Dreams_Eddie_Mize.mp3",
+    duration:"05:00"
+  },
+  {
     name:"Luner Tick",
     file:"assets/mp3/Electronic/Luner_Tick_Eddie_Mize.mp3",
     duration:"03:16"
