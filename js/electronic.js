@@ -55,6 +55,11 @@ var listAudio = [
     duration:"03:40"
   },  
   {
+    name:"A Tenative Peace",
+    file:"assets/mp3/Electronic/A_Tenative_Peace_Eddie_Mize.mp3",
+    duration:"05:41"
+  },
+  {
     name:"A Thought 2 Far",
     file:"assets/mp3/Electronic/A_Thought_2_Far_Eddie_Mize.mp3",
     duration:"03:19"
