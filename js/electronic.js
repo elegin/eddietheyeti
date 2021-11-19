@@ -220,6 +220,11 @@ var listAudio = [
     duration:"02:25"
   },
   {
+    name:"Driving with Eyes Closed",
+    file:"assets/mp3/Electronic/Driving_with_Eyes_Closed_-_Eddie_Mize.mp33",
+    duration:"02:25"
+  },
+  {
     name:"Dwell Time",
     file:"assets/mp3/Electronic/Dwell_Time_Eddie_Mize.mp3",
     duration:"03:01"
