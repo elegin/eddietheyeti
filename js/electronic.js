@@ -555,6 +555,11 @@ var listAudio = [
     duration:"04:02"
   },
   {
+    name:"Things_to_Do",
+    file:"assets/mp3/Electronic/Things_to_Do_Eddie_Mize.mp3",
+    duration:"03:10"
+  },
+  {
     name:"Thought Police",
     file:"assets/mp3/Electronic/Thought_Police_Eddie_Mize.mp3",
     duration:"02:52"
