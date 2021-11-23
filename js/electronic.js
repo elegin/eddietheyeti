@@ -210,6 +210,11 @@ var listAudio = [
     duration:"04:18"
   },
   {
+    name:"Driving Fast at Night",
+    file:"assets/mp3/Electronic/Driving_Fast_at_Night.mp3",
+    duration:"04:15"
+  },  
+  {
     name:"Driving These Dark Streets",
     file:"assets/mp3/Electronic/Driving_These_Dark_Streets_Eddie_Mize.mp3",
     duration:"02:56"
