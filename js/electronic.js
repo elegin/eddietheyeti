@@ -325,6 +325,11 @@ var listAudio = [
     duration:"03:22"
   },
   {
+    name:"It Seems So Real",
+    file:"assets/mp3/Electronic/It_Seems_So_Real_Eddie_Mize.mp3",
+    duration:"03:17"
+  },  
+  {
     name:"Kaos Prynciple",
     file:"assets/mp3/Electronic/Kaos_Prynciple_Eddie_Mize.mp3",
     duration:"02:56"
