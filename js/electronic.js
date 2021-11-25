@@ -81,6 +81,11 @@ var listAudio = [
   },
   {
     name:"Angst",
+    file:"assets/mp3/Electronic/Anticipation_and_Loathing_Eddie_Mize.mp3",
+    duration:"03:19"
+  },
+  {
+    name:"",
     file:"assets/mp3/Electronic/Angst_Eddie_Mize.mp3",
     duration:"03:32"
   },
