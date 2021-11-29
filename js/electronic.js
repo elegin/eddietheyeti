@@ -330,6 +330,11 @@ var listAudio = [
     duration:"03:22"
   },
   {
+    name:"Isolation",
+    file:"assets/mp3/Electronic/Isolation_Eddie_Mize.mp3",
+    duration:"03:22"
+  },
+  {
     name:"It Seems So Real",
     file:"assets/mp3/Electronic/It_Seems_So_Real_Eddie_Mize.mp3",
     duration:"03:17"
@@ -574,6 +579,11 @@ var listAudio = [
     file:"assets/mp3/Electronic/Things_to_Do_Eddie_Mize.mp3",
     duration:"03:10"
   },
+  {
+    name:"Think In The Abstract",
+    file:"assets/mp3/Electronic/Think_In_The_Abstract_Eddie_Mize.mp3",
+    duration:"03:10"
+  },  
   {
     name:"Thought Police",
     file:"assets/mp3/Electronic/Thought_Police_Eddie_Mize.mp3",
