@@ -80,12 +80,12 @@ var listAudio = [
     duration:"04:18"
   },
   {
-    name:"Angst",
+    name:"Anticipation and Loathing",
     file:"assets/mp3/Electronic/Anticipation_and_Loathing_Eddie_Mize.mp3",
     duration:"03:19"
   },
   {
-    name:"",
+    name:"Angst",
     file:"assets/mp3/Electronic/Angst_Eddie_Mize.mp3",
     duration:"03:32"
   },
@@ -99,6 +99,11 @@ var listAudio = [
     file:"assets/mp3/Electronic/AreYouSh-ttingMe_Eddie_Mize.mp3",
     duration:"02:10"
   },
+  {
+    name:"Back Then",
+    file:"assets/mp3/Electronic/Back_Then_Eddie_Mize.mp3",
+    duration:"02:59"
+  },  
   {
     name:"Brain Race Stat",
     file:"assets/mp3/Electronic/Brain_Race_Stat_Eddie_Mize.mp3",
