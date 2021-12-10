@@ -425,6 +425,11 @@ var listAudio = [
     duration:"05:40"
   },
   {
+    name:"Nowhere Near Level",
+    file:"assets/mp3/Electronic/Nowhere_Near_Level_Eddie_Mize.mp3",
+    duration:"02:37"
+  },  
+  {
     name:"Off Kilter",
     file:"assets/mp3/Electronic/Off_Kilter_Eddie_Mize.mp3",
     duration:"02:58"
