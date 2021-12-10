@@ -620,6 +620,11 @@ var listAudio = [
     duration:"04:33"
   },
   {
+    name:"Wail of a Tale",
+    file:"assets/mp3/Electronic/Wail_of_a_Tale_Eddie_Mize.mp3",
+    duration:"03:23"
+  },
+  {
     name:"Way Out There",
     file:"assets/mp3/Electronic/Way_Out_There_Eddie_Mize.mp3",
     duration:"03:23"
