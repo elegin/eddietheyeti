@@ -190,6 +190,11 @@ var listAudio = [
     duration:"04:37"
   },
   {
+    name:"Dark Ascent",
+    file:"assets/mp3/Electronic/Dark_Ascent_Eddie_Mize.mp3",
+    duration:"03:53"
+  },  
+  {
     name:"Dark Journey",
     file:"assets/mp3/Electronic/Dark_Journey_Eddie_Mize.mp3",
     duration:"03:41"
