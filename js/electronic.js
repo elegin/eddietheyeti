@@ -241,7 +241,12 @@ var listAudio = [
   },
   {
     name:"Driving with Eyes Closed",
-    file:"assets/mp3/Electronic/Driving_with_Eyes_Closed_-_Eddie_Mize.mp33",
+    file:"assets/mp3/Electronic/Driving_with_Eyes_Closed_-_Eddie_Mize.mp3",
+    duration:"02:25"
+  },
+  {
+    name:"Droppin",
+    file:"assets/mp3/Electronic/Droppin_Eddie_Mize.mp3",
     duration:"02:25"
   },
   {
