@@ -360,6 +360,11 @@ var listAudio = [
     duration:"02:56"
   },  
   {
+    name:"Little_Drummer_Boy",
+    file:"assets/mp3/Electronic/Little_Drummer_Boy_Eddie_Mize.mp3",
+    duration:"03:32"
+  },
+  {
     name:"Longboat",
     file:"assets/mp3/Electronic/Longboat_Eddie_Mize.mp3",
     duration:"03:32"
