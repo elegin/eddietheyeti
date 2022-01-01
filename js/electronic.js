@@ -475,6 +475,11 @@ var listAudio = [
     duration:"05:22"
   },
   {
+    name:"Process Exception",
+    file:"assets/mp3/Electronic/Process_Exception_Eddie_Mize.mp3",
+    duration:"04:48"
+  },
+  {
     name:"R3l4X",
     file:"assets/mp3/Electronic/R3l4X_Eddie_Mize.mp3",
     duration:"06:04"
@@ -623,6 +628,11 @@ var listAudio = [
     name:"Too Much Caffeine",
     file:"assets/mp3/Electronic/Too_Much_Caffeine_Eddie_Mize.mp3",
     duration:"03:42"
+  },
+  {
+    name:"Transition",
+    file:"assets/mp3/Electronic/Transition_Eddie_Mize.mp3",
+    duration:"04:14"
   },
   {
     name:"Up is the Destination",
