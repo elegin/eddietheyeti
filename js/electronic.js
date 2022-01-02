@@ -455,6 +455,11 @@ var listAudio = [
     duration:"02:47"
   },
   {
+    name:"OnToTheNext",
+    file:"assets/mp3/Electronic/OnToTheNext.mp3",
+    duration:"05:50"
+  },
+  {
     name:"Outer Edge",
     file:"assets/mp3/Electronic/Outer_Edge_Eddie_Mize.mp3",
     duration:"04:18"
