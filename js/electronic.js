@@ -110,6 +110,11 @@ var listAudio = [
     duration:"02:52"
   },
   {
+    name:"C4lm",
+    file:"assets/mp3/Electronic/C4lm_Eddie_Mize.mp3",
+    duration:"03:29"
+  },  
+  {
     name:"Caribbean_Paradise",
     file:"assets/mp3/Electronic/Caribbean_Paradise_Eddie_Mize.mp3",
     duration:"04:28"
