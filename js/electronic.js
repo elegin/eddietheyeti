@@ -70,6 +70,11 @@ var listAudio = [
     duration:"02:34"
   },  
   {
+    name:"Across Vast Lands",
+    file:"assets/mp3/Electronic/Across_Vast_Lands_Eddie_Mize.mp3",
+    duration:"03:45"
+  },    
+  {
     name:"All Hallows March",
     file:"assets/mp3/Electronic/All_Hallows_March_Eddie_Mize.mp3",
     duration:"04:09"
