@@ -265,6 +265,11 @@ var listAudio = [
     duration:"03:01"
   },
   {
+    name:"Faulty Trace",
+    file:"assets/mp3/Electronic/Faulty_Trace_Eddie_MIze.mp3",
+    duration:"03:35"
+  },
+  {
     name:"Fear of Remembering",
     file:"assets/mp3/ElectronicFear_of_Remembering_Eddie_Mize.mp3",
     duration:"03:27"
