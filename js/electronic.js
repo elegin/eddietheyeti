@@ -195,6 +195,11 @@ var listAudio = [
     duration:"03:27"
   },
   {
+    name:"",
+    file:"assets/mp3/Electronic/Cruisin_the_Super_Highways_Eddie_Mize.mp3",
+    duration:"05:09"
+  },
+  {
     name:"Cybernetic Groovin",
     file:"assets/mp3/Electronic/Cybernetic_Groovin_Eddie_Mize.mp3",
     duration:"04:37"
